@@ -25,7 +25,7 @@ const Footer = () => (
             </button>
 
             <button type="button" className="footer-buttons">
-              <a href="https://youtube.com/@bhagyayegutla392" target="/">
+              <a href="https://www.youtube.com/watch?v=t-AeT3gNBfw" target="/">
                 <FaYoutube className={textColor} size={20} />
               </a>
             </button>
